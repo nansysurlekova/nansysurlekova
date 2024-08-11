@@ -33,7 +33,7 @@
   <img src="https://streak-stats.demolab.com?user=nansysurlekova&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=7&order=3" height="150" alt="streak graph"  />
 </div>
 
-###"https://github-profile-trophy.vercel.app?username=nansysurlekova&theme=flat&column=4&row=2&margin-w=13&margin-h=13&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </div>
 
 ###
